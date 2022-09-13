@@ -1,0 +1,19 @@
+.jokes-sec{
+    background: darkslateblue;
+    height: 100vh;
+    text-align: center;
+    padding-top: 130px;
+}
+.joke{
+    width: 60%;
+    max-width: 500px;
+    background: white;
+  
+}
+.joke img{
+    border-radius: 60%;
+    height: 40px;
+}
+.joke button{
+    margin-bottom: 15px;
+}
